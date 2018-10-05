@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hashnote.github.io" resolutions="1x" timestamp="1538743826427">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4249411766" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="22.png" crc="415502235" seo="true" mt="1490236634000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="t7ioty.jpg" crc="242126861" seo="true" ref="index"/>
+    <file name="t7ioty-crop-u662.jpg" crc="493864732" ref="index"/>
+    <file name="medium-cover.jpg" crc="219789491" seo="true" ref="index"/>
+    <file name="u681-4.png" crc="463896662" ref="index"/>
+    <file name="u706-4.png" crc="184794532" ref="index"/>
+    <file name="u807-4.png" crc="488286298" ref="index"/>
+    <file name="u817-6.png" crc="118735730" ref="index"/>
+    <file name="u867-4.png" crc="3975026819" ref="index"/>
+    <file name="u870-4.png" crc="42907299" ref="index"/>
+    <file name="u873-4.png" crc="4050138115" ref="index"/>
+    <file name="u876-4.png" crc="238831711" ref="index"/>
+    <file name="u879-4.png" crc="116334593" ref="index"/>
+    <file name="u882-4.png" crc="144886667" ref="index"/>
+    <file name="u885-4.png" crc="4036087502" ref="index"/>
+    <file name="u888-4.png" crc="3940655632" ref="index"/>
+    <file name="u891-4.png" crc="217379672" ref="index"/>
+    <file name="u894-4.png" crc="416201323" ref="index"/>
+    <file name="u897-4.png" crc="4243153168" ref="index"/>
+    <file name="u900-4.png" crc="220402670" ref="index"/>
+    <file name="u903-4.png" crc="250180529" ref="index"/>
+    <file name="u906-4.png" crc="3841670178" ref="index"/>
+    <file name="u909-4.png" crc="518953565" ref="index"/>
+    <file name="one_punch_man-wallpaper-10850520.jpg" crc="263844449" seo="true" ref="index"/>
+    <file name="u921-4.png" crc="2886594" ref="index"/>
+    <file name="u922-4.png" crc="294751026" ref="index"/>
+    <file name="u923-4.png" crc="3915506140" ref="index"/>
+    <file name="u938-4.png" crc="3834493553" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4075898783" seo="true" mt="1538742821104" redirect="true"/>
+</manifest>
