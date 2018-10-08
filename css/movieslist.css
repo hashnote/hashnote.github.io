@@ -1,0 +1,166 @@
+.version.movieslist /* version checker */
+{
+	color: #0000F0;
+	background-color: #10E512;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 374px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 20px;
+	padding-bottom: 106px;
+	width: 100%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u4396-7
+{
+	z-index: 18;
+	width: 112px;
+	min-height: 42px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	color: #FFFFFF;
+	position: relative;
+	margin-left: 1.76%;
+}
+
+#u4396-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4396,#u4396-3
+{
+	line-height: 36px;
+}
+
+#u4396-2,#u4396-4
+{
+	font-size: 22px;
+	line-height: 26px;
+}
+
+#u4392-4
+{
+	z-index: 6;
+	width: 205px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 40px;
+	position: relative;
+	margin-left: 7.75%;
+}
+
+#u4393-4
+{
+	z-index: 10;
+	width: 155px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 12px;
+	position: relative;
+	margin-left: 15.92%;
+}
+
+#u4394-4
+{
+	z-index: 14;
+	width: 107px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 19px;
+	position: relative;
+	margin-left: 15.92%;
+}
+
+#u4392,#u4393,#u4394
+{
+	font-size: 24px;
+}
+
+#u4391-4
+{
+	z-index: 2;
+	width: 129px;
+	min-height: 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	color: #000000;
+	margin-top: 17px;
+	position: relative;
+	margin-left: 15.92%;
+}
+
+#u4458-4
+{
+	z-index: 25;
+	min-height: 52px;
+	background-color: transparent;
+	font-size: 36px;
+	line-height: 43px;
+	color: #FFFFFF;
+	margin-top: 25px;
+	position: relative;
+	width: 85.92%;
+	margin-left: 14.01%;
+}
+
+#u5059-4
+{
+	z-index: 29;
+	min-height: 9px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	font-style: normal;
+	margin-top: 26px;
+	position: relative;
+	width: 77.5%;
+	margin-left: 14.01%;
+}
+
+.html
+{
+	background-color: #36373A;
+}
+
+body
+{
+	position: relative;
+	min-width: 300px;
+}
+
