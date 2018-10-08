@@ -1,7 +1,7 @@
 .version.dubbedanimelist /* version checker */
 {
-	color: #000008;
-	background-color: #CABDEF;
+	color: #000017;
+	background-color: #ACE63C;
 }
 
 #muse_css_mq
@@ -12,17 +12,24 @@
 #page
 {
 	z-index: 1;
-	min-height: 374px;
+	min-height: 394px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
 	padding-bottom: 106px;
 	width: 100%;
 	max-width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#pu5989-7
+{
+	margin-right: -10000px;
+	margin-top: 20px;
+	width: 98.17%;
+	margin-left: 1.67%;
 }
 
 #u5989-7
@@ -35,7 +42,6 @@
 	line-height: 36px;
 	color: #FFFFFF;
 	position: relative;
-	margin-left: 1.67%;
 }
 
 #u5989-5
@@ -67,7 +73,7 @@
 	line-height: 29px;
 	margin-top: 40px;
 	position: relative;
-	margin-left: 7.67%;
+	margin-left: 6.12%;
 }
 
 #u5987-4
@@ -83,7 +89,7 @@
 	line-height: 29px;
 	margin-top: 12px;
 	position: relative;
-	margin-left: 15.92%;
+	margin-left: 14.52%;
 }
 
 #u5988-4
@@ -99,7 +105,7 @@
 	line-height: 29px;
 	margin-top: 19px;
 	position: relative;
-	margin-left: 15.84%;
+	margin-left: 14.52%;
 }
 
 #u5986,#u5987,#u5988
@@ -121,7 +127,7 @@
 	color: #000000;
 	margin-top: 17px;
 	position: relative;
-	margin-left: 15.92%;
+	margin-left: 14.52%;
 }
 
 #u5990-4
@@ -134,8 +140,8 @@
 	color: #FFFFFF;
 	margin-top: 44px;
 	position: relative;
-	width: 85.92%;
-	margin-left: 13.92%;
+	width: 87.53%;
+	margin-left: 12.48%;
 }
 
 #u5991-4
@@ -149,8 +155,22 @@
 	font-style: normal;
 	margin-top: 7px;
 	position: relative;
-	width: 77.5%;
-	margin-left: 13.92%;
+	width: 78.95%;
+	margin-left: 12.48%;
+}
+
+#u6241
+{
+	z-index: 33;
+	min-height: 42px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 20px;
+	right: 37px;
+	width: 3%;
+	max-width: 36px;
 }
 
 .html
@@ -163,4 +183,5 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
 
