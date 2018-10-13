@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Movies &#8211; HashNote</title>
+	<atom:link href="https://hashnote.github.io/movies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hashnote.github.io/</link>
+	<description>The Official Home of HashNote Dubbed Anime,Movies Torrent Download</description>
+	<lastBuildDate>Sat, 13 Oct 2018 06:05:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Ant-Man and the Wasp</title>
+		<link>https://hashnote.github.io/movies/ant-man-and-the-wasp/</link>
+		<comments>https://hashnote.github.io/movies/ant-man-and-the-wasp/#respond</comments>
+		<pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[hashnote]]></dc:creator>
+		
+		<guid isPermaLink="false">https://hashnote.github.io/movies/ant-man-and-the-wasp/</guid>
+		<description><![CDATA[Just when his time under house arrest is about to end, Scott Lang puts again his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.]]></description>
+				<content:encoded><![CDATA[<p>Just when his time under house arrest is about to end, Scott Lang puts again his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://hashnote.github.io/movies/ant-man-and-the-wasp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wonder Woman</title>
+		<link>https://hashnote.github.io/movies/wonder-woman/</link>
+		<comments>https://hashnote.github.io/movies/wonder-woman/#respond</comments>
+		<pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[hashnote]]></dc:creator>
+		
+		<guid isPermaLink="false">https://hashnote.github.io/movies/wonder-woman/</guid>
+		<description><![CDATA[An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.]]></description>
+				<content:encoded><![CDATA[<p>An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://hashnote.github.io/movies/wonder-woman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
