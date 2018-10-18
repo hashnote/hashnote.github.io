@@ -6,19 +6,19 @@
 	
 	>
 <channel>
-	<title>Comments on: Hello world!</title>
-	<atom:link href="https://hashnote.github.io/2018/10/12/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hashnote.github.io/2018/10/12/hello-world/</link>
-	<description>The Official Home of HashNote Dubbed Anime,Movies Torrent Download</description>
-	<lastBuildDate>Fri, 12 Oct 2018 16:17:02 +0000</lastBuildDate>
+	<title>Comments for HashNote</title>
+	<atom:link href="https://hashnote.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hashnote.github.io/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Oct 2018 07:31:21 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
-		<title>By: A WordPress Commenter</title>
-		<link>https://hashnote.github.io/2018/10/12/hello-world/#comment-1</link>
+		<title>Comment on Hello world! by A WordPress Commenter</title>
+		<link>https://hashnote.github.io/2018/10/15/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Fri, 12 Oct 2018 16:17:02 +0000</pubDate>
+		<pubDate>Mon, 15 Oct 2018 07:31:21 +0000</pubDate>
 		<guid isPermaLink="false">https://hashnote.github.io/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
