@@ -1,0 +1,474 @@
+.version.index /* version checker */
+{
+	color: #000016;
+	background-color: #5FDE16;
+}
+
+#page
+{
+	padding-bottom: 62px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	z-index: 1;
+	margin-right: auto;
+	background-color: transparent;
+	margin-left: auto;
+}
+
+#u149-7
+{
+	min-height: 42px;
+	z-index: 7;
+	font-size: 24px;
+	line-height: 29px;
+	position: relative;
+	color: #FFFFFF;
+	width: 152px;
+	background-color: transparent;
+}
+
+#u149-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u149,#u149-3
+{
+	font-size: 36px;
+	line-height: 43px;
+}
+
+#u149-2,#u149-4
+{
+	line-height: 29px;
+}
+
+#u102-4
+{
+	min-height: 21px;
+	z-index: 3;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	color: #29ABE2;
+	background-color: transparent;
+}
+
+#u227-4
+{
+	min-height: 19px;
+	z-index: 14;
+	position: relative;
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u164
+{
+	border-color: transparent;
+	z-index: 2;
+	position: relative;
+	border-width: 0px;
+	background-color: transparent;
+}
+
+#u98
+{
+	min-height: 32px;
+	position: fixed;
+	width: 41px;
+	border-width: 0px;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.html
+{
+	background-color: #36373A;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 1201px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1160px;
+		min-height: 418px;
+		padding-left: 20px;
+		padding-top: 20px;
+		padding-right: 20px;
+	}
+
+	#u98
+	{
+		z-index: 34;
+		top: 24px;
+		right: 131px;
+	}
+
+	#pu511-4
+	{
+		width: 0.01px;
+		margin-left: 152px;
+		margin-top: 12px;
+	}
+
+	#u511-4
+	{
+		z-index: 18;
+		width: 129px;
+		min-height: 14px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		color: #000000;
+		margin-bottom: -1px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u512-4
+	{
+		z-index: 22;
+		width: 205px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		margin-bottom: -1px;
+		position: relative;
+		margin-right: -10000px;
+		left: 225px;
+	}
+
+	#u513-4
+	{
+		z-index: 26;
+		width: 155px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		margin-bottom: -1px;
+		position: relative;
+		margin-right: -10000px;
+		left: 526px;
+	}
+
+	#u514-4
+	{
+		z-index: 30;
+		width: 107px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		margin-bottom: -1px;
+		position: relative;
+		margin-right: -10000px;
+		left: 777px;
+	}
+
+	#u512,#u513,#u514
+	{
+		font-size: 24px;
+	}
+
+	#u102-4
+	{
+		width: 536px;
+		margin-top: 43px;
+	}
+
+	#u227-4
+	{
+		width: 474px;
+		margin-top: 18px;
+	}
+
+	#u164
+	{
+		width: 1160px;
+		min-height: 577px;
+		margin-top: 18px;
+	}
+
+	body
+	{
+		min-width: 1200px;
+	}
+}
+
+@media (min-width: 806px) and (max-width: 1200px)
+{
+	#muse_css_mq
+	{
+		background-color: #0004b0;
+	}
+
+	#bp_1200.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		width: 100%;
+		max-width: 1200px;
+	}
+
+	#pu149-7
+	{
+		margin-right: -10000px;
+		margin-top: 20px;
+		margin-left: 20px;
+		width: 95.67%;
+	}
+
+	#u102-4
+	{
+		margin-top: 58px;
+		width: 26.4%;
+	}
+
+	#u227-4
+	{
+		width: 246px;
+		margin-top: 12px;
+	}
+
+	#u164
+	{
+		min-height: 565px;
+		margin-top: 13px;
+		width: 100%;
+	}
+
+	#u456-4
+	{
+		z-index: 18;
+		width: 129px;
+		min-height: 14px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		color: #000000;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 16.42%;
+	}
+
+	#u457-4
+	{
+		z-index: 22;
+		width: 205px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 35.17%;
+	}
+
+	#u458-4
+	{
+		z-index: 26;
+		width: 155px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 60.25%;
+	}
+
+	#u459-4
+	{
+		z-index: 30;
+		width: 107px;
+		min-height: 28px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #000000;
+		background-color: #F7931E;
+		font-size: 24px;
+		line-height: 29px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 81.17%;
+	}
+
+	#u457,#u458,#u459
+	{
+		font-size: 24px;
+	}
+
+	#u98
+	{
+		z-index: 34;
+		top: 24px;
+		right: 25px;
+	}
+
+}
+
+@media (min-width: 351px) and (max-width: 805px)
+{
+	#muse_css_mq
+	{
+		background-color: #000325;
+	}
+
+	#bp_805.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		width: 100%;
+		max-width: 805px;
+	}
+
+	#pu149-7
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		margin-left: 20px;
+		width: 93.55%;
+	}
+
+	#u102-4
+	{
+		margin-top: 26px;
+		width: 57.24%;
+	}
+
+	#u227-4
+	{
+		width: 443px;
+		margin-top: 15px;
+	}
+
+	#u164
+	{
+		min-height: 459px;
+		margin-top: 7px;
+		width: 100%;
+	}
+
+	#u98
+	{
+		z-index: 18;
+		top: 26px;
+		right: 32px;
+	}
+
+}
+
+@media (max-width: 350px)
+{
+	#muse_css_mq
+	{
+		background-color: #00015e;
+	}
+
+	#bp_350.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 307px;
+		width: 100%;
+		max-width: 350px;
+	}
+
+	#pu149-7
+	{
+		margin-right: -10000px;
+		margin-top: 20px;
+		margin-left: 20px;
+		width: 88.86%;
+	}
+
+	#u102-4
+	{
+		margin-top: 26px;
+		width: 67.21%;
+	}
+
+	#u227-4
+	{
+		width: 251px;
+		margin-top: 13px;
+	}
+
+	#u164
+	{
+		min-height: 188px;
+		margin-left: 1px;
+		margin-top: 13px;
+		width: 99.68%;
+	}
+
+	#u98
+	{
+		z-index: 18;
+		top: 20px;
+		right: 20px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+}
+
