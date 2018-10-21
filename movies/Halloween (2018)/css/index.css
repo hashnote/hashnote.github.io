@@ -1,0 +1,124 @@
+.version.index /* version checker */
+{
+	color: #00001C;
+	background-color: #28B515;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu95-7
+{
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 93.67%;
+}
+
+#u95-7
+{
+	z-index: 6;
+	width: 152px;
+	min-height: 42px;
+	background-color: transparent;
+	font-size: 24px;
+	color: #FFFFFF;
+	line-height: 29px;
+	position: relative;
+}
+
+#u95-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u95,#u95-3
+{
+	font-size: 36px;
+	line-height: 43px;
+}
+
+#u95-2,#u95-4
+{
+	line-height: 29px;
+}
+
+#u94-4
+{
+	z-index: 2;
+	min-height: 21px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #29ABE2;
+	line-height: 22px;
+	margin-top: 58px;
+	position: relative;
+	width: 75.36%;
+}
+
+#u96-4
+{
+	z-index: 13;
+	width: 847px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #FFFFFF;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u150
+{
+	z-index: 17;
+	min-height: 677px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u101
+{
+	z-index: 18;
+	width: 41px;
+	min-height: 32px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 23px;
+	right: 25px;
+}
+
+.html
+{
+	background-color: #36373A;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+
