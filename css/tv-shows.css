@@ -1,7 +1,7 @@
 .version.tv_shows /* version checker */
 {
-	color: #0000E1;
-	background-color: #9D6BD0;
+	color: #0000FB;
+	background-color: #B5215D;
 }
 
 #muse_css_mq
@@ -24,15 +24,15 @@
 	margin-right: auto;
 }
 
-#pu5968-7
+#pu6660-7
 {
 	margin-right: -10000px;
 	margin-top: 20px;
 	width: 98.17%;
-	margin-left: 1.84%;
+	margin-left: 1.67%;
 }
 
-#u5968-7
+#u6660-7
 {
 	z-index: 18;
 	width: 112px;
@@ -44,23 +44,23 @@
 	position: relative;
 }
 
-#u5968-5
+#u6660-5
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u5968,#u5968-3
+#u6660,#u6660-3
 {
 	line-height: 36px;
 }
 
-#u5968-2,#u5968-4
+#u6660-2,#u6660-4
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u5965-4
+#u6657-4
 {
 	z-index: 6;
 	width: 205px;
@@ -73,10 +73,10 @@
 	line-height: 29px;
 	margin-top: 40px;
 	position: relative;
-	margin-left: 6.12%;
+	margin-left: 6.2%;
 }
 
-#u5966-4
+#u6658-4
 {
 	z-index: 10;
 	width: 155px;
@@ -92,7 +92,7 @@
 	margin-left: 14.52%;
 }
 
-#u5967-4
+#u6659-4
 {
 	z-index: 14;
 	width: 107px;
@@ -105,15 +105,15 @@
 	line-height: 29px;
 	margin-top: 19px;
 	position: relative;
-	margin-left: 14.44%;
+	margin-left: 14.52%;
 }
 
-#u5965,#u5966,#u5967
+#u6657,#u6658,#u6659
 {
 	font-size: 24px;
 }
 
-#u5964-4
+#u6656-4
 {
 	z-index: 2;
 	width: 129px;
@@ -130,36 +130,36 @@
 	margin-left: 14.52%;
 }
 
-#u5969-4
+#u6661-4
 {
 	z-index: 25;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 36px;
-	line-height: 43px;
+	font-size: 30px;
+	line-height: 36px;
 	color: #FFFFFF;
-	margin-top: 25px;
+	margin-top: 44px;
 	position: relative;
 	width: 87.53%;
 	margin-left: 12.48%;
 }
 
-#u5970-4
+#u6662-4
 {
 	z-index: 29;
 	min-height: 9px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #29ABE2;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	font-style: normal;
-	margin-top: 26px;
+	margin-top: 7px;
 	position: relative;
 	width: 78.95%;
 	margin-left: 12.48%;
 }
 
-#u6295
+#u6663
 {
 	z-index: 33;
 	min-height: 42px;
@@ -168,7 +168,7 @@
 	background-color: transparent;
 	position: fixed;
 	top: 20px;
-	right: 31px;
+	right: 37px;
 	width: 3%;
 	max-width: 36px;
 }

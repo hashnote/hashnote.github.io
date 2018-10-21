@@ -1,7 +1,7 @@
 .version.movieslist /* version checker */
 {
-	color: #0000E2;
-	background-color: #952FB5;
+	color: #000002;
+	background-color: #75E3F9;
 }
 
 #muse_css_mq
@@ -24,15 +24,15 @@
 	margin-right: auto;
 }
 
-#pu4396-7
+#pu6712-7
 {
 	margin-right: -10000px;
 	margin-top: 20px;
 	width: 98.17%;
-	margin-left: 1.76%;
+	margin-left: 1.67%;
 }
 
-#u4396-7
+#u6712-7
 {
 	z-index: 18;
 	width: 112px;
@@ -44,23 +44,23 @@
 	position: relative;
 }
 
-#u4396-5
+#u6712-5
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u4396,#u4396-3
+#u6712,#u6712-3
 {
 	line-height: 36px;
 }
 
-#u4396-2,#u4396-4
+#u6712-2,#u6712-4
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u4392-4
+#u6709-4
 {
 	z-index: 6;
 	width: 205px;
@@ -73,10 +73,10 @@
 	line-height: 29px;
 	margin-top: 40px;
 	position: relative;
-	margin-left: 6.12%;
+	margin-left: 6.2%;
 }
 
-#u4393-4
+#u6710-4
 {
 	z-index: 10;
 	width: 155px;
@@ -92,7 +92,7 @@
 	margin-left: 14.52%;
 }
 
-#u4394-4
+#u6711-4
 {
 	z-index: 14;
 	width: 107px;
@@ -108,12 +108,12 @@
 	margin-left: 14.52%;
 }
 
-#u4392,#u4393,#u4394
+#u6709,#u6710,#u6711
 {
 	font-size: 24px;
 }
 
-#u4391-4
+#u6708-4
 {
 	z-index: 2;
 	width: 129px;
@@ -130,36 +130,36 @@
 	margin-left: 14.52%;
 }
 
-#u4458-4
+#u6713-4
 {
 	z-index: 25;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 36px;
-	line-height: 43px;
+	font-size: 30px;
+	line-height: 36px;
 	color: #FFFFFF;
-	margin-top: 25px;
+	margin-top: 44px;
 	position: relative;
 	width: 87.53%;
 	margin-left: 12.48%;
 }
 
-#u5059-4
+#u6714-4
 {
 	z-index: 29;
 	min-height: 9px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #29ABE2;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	font-style: normal;
-	margin-top: 26px;
+	margin-top: 7px;
 	position: relative;
 	width: 78.95%;
 	margin-left: 12.48%;
 }
 
-#u6335
+#u6715
 {
 	z-index: 33;
 	min-height: 42px;
@@ -168,7 +168,7 @@
 	background-color: transparent;
 	position: fixed;
 	top: 20px;
-	right: 35px;
+	right: 37px;
 	width: 3%;
 	max-width: 36px;
 }

@@ -1,18 +1,18 @@
 .version.index /* version checker */
 {
 	color: #0000F5;
-	background-color: #CF654D;
+	background-color: #9FD5F5;
 }
 
 #page
 {
-	width: 100%;
+	z-index: 1;
 	background-image: none;
-	border-width: 0px;
+	margin-left: auto;
 	margin-right: auto;
 	background-color: transparent;
-	z-index: 1;
-	margin-left: auto;
+	width: 100%;
+	border-width: 0px;
 	border-color: #000000;
 }
 
@@ -24,10 +24,10 @@
 #u2902-7
 {
 	color: #FFFFFF;
-	font-size: 30px;
-	position: relative;
 	line-height: 36px;
+	font-size: 30px;
 	background-color: transparent;
+	position: relative;
 }
 
 #u2902-5
@@ -48,80 +48,80 @@
 
 #u640
 {
-	border-width: 6px;
+	border-color: #263C51;
 	position: relative;
-	margin-right: -10000px;
 	background-color: transparent;
 	border-style: solid;
-	border-color: #263C51;
+	border-width: 6px;
+	margin-right: -10000px;
 }
 
 #u684,#u694,#u1034
 {
-	background-color: transparent;
-	border-width: 6px;
-	position: relative;
-	margin-right: -10000px;
 	margin-bottom: -6px;
 	border-style: solid;
+	position: relative;
+	background-color: transparent;
 	border-color: #263C51;
+	border-width: 6px;
+	margin-right: -10000px;
 }
 
 #u1296-4
 {
 	color: #FFFFFF;
-	margin-top: 1px;
-	position: relative;
-	margin-right: -10000px;
-	background-color: transparent;
 	min-height: 17px;
+	position: relative;
+	background-color: transparent;
+	margin-top: 1px;
+	margin-right: -10000px;
 }
 
 #u376-6,#u532-4,#u1126-4
 {
 	vertical-align: top;
-	display: block;
 	position: relative;
+	display: block;
 }
 
 #u336,#u598,#u1024,#u1076,#u1129
 {
-	border-width: 6px;
+	border-color: #263C51;
 	position: relative;
 	background-color: transparent;
 	border-style: solid;
-	border-color: #263C51;
+	border-width: 6px;
 }
 
 #u535-4,#u1272-4,#u1287-4,#u1302-4,#u1317-4
 {
 	color: #FFFFFF;
-	background-color: transparent;
-	position: relative;
 	min-height: 18px;
+	position: relative;
+	background-color: transparent;
 }
 
 #u1086,#u1096,#u1139,#u1169
 {
-	border-width: 6px;
-	margin-top: -6px;
-	position: relative;
-	margin-right: -10000px;
-	background-color: transparent;
 	margin-bottom: -6px;
-	border-style: solid;
+	position: relative;
+	background-color: transparent;
+	margin-top: -6px;
 	border-color: #263C51;
+	border-style: solid;
+	border-width: 6px;
+	margin-right: -10000px;
 }
 
 #u346,#u356,#u366,#u894,#u1046,#u1056,#u1066,#u1106,#u1159
 {
-	border-width: 6px;
-	margin-top: -6px;
-	position: relative;
-	margin-right: -10000px;
-	background-color: transparent;
 	border-style: solid;
+	position: relative;
+	background-color: transparent;
+	margin-top: -6px;
 	border-color: #263C51;
+	border-width: 6px;
+	margin-right: -10000px;
 }
 
 #u336_img,#u356_img,#u366_img,#u598_img,#u640_img,#u684_img,#u694_img,#u894_img,#u1024_img,#u1034_img,#u1046_img,#u1056_img,#u1066_img,#u1076_img,#u1086_img,#u1096_img,#u1106_img,#u1129_img,#u1139_img,#u1169_img,#u1159_img
@@ -132,21 +132,21 @@
 #u1179-4,#u1188-4,#u1191-4,#u1275-4,#u1278-4,#u1281-4,#u1284-4,#u1290-4,#u1293-4,#u1299-4,#u1305-4,#u1308-4,#u1311-4,#u1320-4,#u1323-4,#u1326-4
 {
 	color: #FFFFFF;
-	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
 	min-height: 18px;
+	background-color: transparent;
+	margin-right: -10000px;
 }
 
 #u6123
 {
-	border-color: transparent;
-	top: 20px;
-	border-width: 0px;
+	max-width: 36px;
 	position: fixed;
 	background-color: transparent;
 	min-height: 42px;
-	max-width: 36px;
+	top: 20px;
+	border-width: 0px;
+	border-color: transparent;
 }
 
 .html

@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hashnote.github.io" resolutions="1x" timestamp="1540032406319">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hashnote.github.io" resolutions="1x" timestamp="1540112110246">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="animemovies.css" crc="4162410350" ref="animemovies"/>
-    <file name="dubbedanimelist.css" crc="397207100" ref="dubbedanimelist"/>
-    <file name="index.css" crc="4124009805" ref="index"/>
+    <file name="index.css" crc="4120892917" ref="index"/>
     <file name="nomq_index.css" crc="478078849" ref="index"/>
-    <file name="tv-shows.css" crc="3785190352" ref="tv-shows"/>
-    <file name="movieslist.css" crc="3801427893" ref="movieslist"/>
+    <file name="tv-shows.css" crc="4222951773" ref="tv-shows"/>
+    <file name="animemovies.css" crc="504137033" ref="animemovies"/>
+    <file name="movieslist.css" crc="41280505" ref="movieslist"/>
+    <file name="dubbedanimelist.css" crc="334868023" ref="dubbedanimelist"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:movieslist:animemovies:tv-shows:dubbedanimelist"/>
@@ -63,8 +63,8 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
   <file name="index.html" crc="476103631" seo="true" mt="1540030241257" redirect="true"/>
-  <file name="movieslist.html" crc="3912768356" seo="true" mt="1540030307622" redirect="true"/>
-  <file name="animemovies.html" crc="514663180" seo="true" mt="1540030295582" redirect="true"/>
-  <file name="tv-shows.html" crc="4157834573" seo="true" mt="1540030275378" redirect="true"/>
-  <file name="dubbedanimelist.html" crc="216052180" seo="true" mt="1540030258457" redirect="true"/>
+  <file name="movieslist.html" crc="4270192081" seo="true" mt="1540112054771" redirect="true"/>
+  <file name="animemovies.html" crc="404839444" seo="true" mt="1540112045599" redirect="true"/>
+  <file name="tv-shows.html" crc="3937690325" seo="true" mt="1540112033688" redirect="true"/>
+  <file name="dubbedanimelist.html" crc="377945010" seo="true" mt="1540112015728" redirect="true"/>
 </manifest>

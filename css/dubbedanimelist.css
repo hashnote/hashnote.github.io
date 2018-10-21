@@ -1,7 +1,7 @@
 .version.dubbedanimelist /* version checker */
 {
-	color: #000017;
-	background-color: #ACE63C;
+	color: #000013;
+	background-color: #F5AE37;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 	margin-right: auto;
 }
 
-#pu5989-7
+#pu6634-7
 {
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -32,7 +32,7 @@
 	margin-left: 1.67%;
 }
 
-#u5989-7
+#u6634-7
 {
 	z-index: 18;
 	width: 112px;
@@ -44,23 +44,23 @@
 	position: relative;
 }
 
-#u5989-5
+#u6634-5
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u5989,#u5989-3
+#u6634,#u6634-3
 {
 	line-height: 36px;
 }
 
-#u5989-2,#u5989-4
+#u6634-2,#u6634-4
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u5986-4
+#u6631-4
 {
 	z-index: 6;
 	width: 205px;
@@ -76,7 +76,7 @@
 	margin-left: 6.12%;
 }
 
-#u5987-4
+#u6632-4
 {
 	z-index: 10;
 	width: 155px;
@@ -92,7 +92,7 @@
 	margin-left: 14.52%;
 }
 
-#u5988-4
+#u6633-4
 {
 	z-index: 14;
 	width: 107px;
@@ -108,12 +108,12 @@
 	margin-left: 14.52%;
 }
 
-#u5986,#u5987,#u5988
+#u6631,#u6632,#u6633
 {
 	font-size: 24px;
 }
 
-#u5985-4
+#u6630-4
 {
 	z-index: 2;
 	width: 129px;
@@ -130,7 +130,7 @@
 	margin-left: 14.52%;
 }
 
-#u5990-4
+#u6635-4
 {
 	z-index: 25;
 	min-height: 52px;
@@ -144,12 +144,12 @@
 	margin-left: 12.48%;
 }
 
-#u5991-4
+#u6636-4
 {
 	z-index: 29;
 	min-height: 9px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #29ABE2;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	font-style: normal;
@@ -159,7 +159,7 @@
 	margin-left: 12.48%;
 }
 
-#u6241
+#u6637
 {
 	z-index: 33;
 	min-height: 42px;

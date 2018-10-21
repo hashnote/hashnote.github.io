@@ -1,7 +1,7 @@
 .version.animemovies /* version checker */
 {
-	color: #0000F8;
-	background-color: #19576E;
+	color: #00001E;
+	background-color: #0C8549;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 	margin-right: auto;
 }
 
-#pu5923-7
+#pu6686-7
 {
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -32,7 +32,7 @@
 	margin-left: 1.67%;
 }
 
-#u5923-7
+#u6686-7
 {
 	z-index: 18;
 	width: 112px;
@@ -44,23 +44,23 @@
 	position: relative;
 }
 
-#u5923-5
+#u6686-5
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u5923,#u5923-3
+#u6686,#u6686-3
 {
 	line-height: 36px;
 }
 
-#u5923-2,#u5923-4
+#u6686-2,#u6686-4
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u5920-4
+#u6683-4
 {
 	z-index: 6;
 	width: 205px;
@@ -76,7 +76,7 @@
 	margin-left: 6.12%;
 }
 
-#u5921-4
+#u6684-4
 {
 	z-index: 10;
 	width: 155px;
@@ -92,7 +92,7 @@
 	margin-left: 14.52%;
 }
 
-#u5922-4
+#u6685-4
 {
 	z-index: 14;
 	width: 107px;
@@ -108,12 +108,12 @@
 	margin-left: 14.52%;
 }
 
-#u5920,#u5921,#u5922
+#u6683,#u6684,#u6685
 {
 	font-size: 24px;
 }
 
-#u5919-4
+#u6682-4
 {
 	z-index: 2;
 	width: 129px;
@@ -130,36 +130,36 @@
 	margin-left: 14.52%;
 }
 
-#u5924-4
+#u6687-4
 {
 	z-index: 25;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 36px;
-	line-height: 43px;
+	font-size: 30px;
+	line-height: 36px;
 	color: #FFFFFF;
-	margin-top: 25px;
+	margin-top: 44px;
 	position: relative;
 	width: 87.53%;
 	margin-left: 12.48%;
 }
 
-#u5925-4
+#u6688-4
 {
 	z-index: 29;
 	min-height: 9px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #29ABE2;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	font-style: normal;
-	margin-top: 26px;
+	margin-top: 7px;
 	position: relative;
 	width: 78.95%;
 	margin-left: 12.48%;
 }
 
-#u6315
+#u6689
 {
 	z-index: 33;
 	min-height: 42px;
@@ -168,7 +168,7 @@
 	background-color: transparent;
 	position: fixed;
 	top: 20px;
-	right: 31px;
+	right: 37px;
 	width: 3%;
 	max-width: 36px;
 }
