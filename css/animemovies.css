@@ -1,0 +1,187 @@
+.version.animemovies /* version checker */
+{
+	color: #00001E;
+	background-color: #0C8549;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 394px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 106px;
+	width: 100%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu6686-7
+{
+	margin-right: -10000px;
+	margin-top: 20px;
+	width: 98.17%;
+	margin-left: 1.67%;
+}
+
+#u6686-7
+{
+	z-index: 18;
+	width: 112px;
+	min-height: 42px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u6686-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u6686,#u6686-3
+{
+	line-height: 36px;
+}
+
+#u6686-2,#u6686-4
+{
+	font-size: 22px;
+	line-height: 26px;
+}
+
+#u6683-4
+{
+	z-index: 6;
+	width: 205px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 40px;
+	position: relative;
+	margin-left: 6.12%;
+}
+
+#u6684-4
+{
+	z-index: 10;
+	width: 155px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 12px;
+	position: relative;
+	margin-left: 14.52%;
+}
+
+#u6685-4
+{
+	z-index: 14;
+	width: 107px;
+	min-height: 28px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 19px;
+	position: relative;
+	margin-left: 14.52%;
+}
+
+#u6683,#u6684,#u6685
+{
+	font-size: 24px;
+}
+
+#u6682-4
+{
+	z-index: 2;
+	width: 129px;
+	min-height: 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #F7931E;
+	font-size: 24px;
+	line-height: 29px;
+	color: #000000;
+	margin-top: 17px;
+	position: relative;
+	margin-left: 14.52%;
+}
+
+#u6687-4
+{
+	z-index: 25;
+	min-height: 52px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	color: #FFFFFF;
+	margin-top: 44px;
+	position: relative;
+	width: 87.53%;
+	margin-left: 12.48%;
+}
+
+#u6688-4
+{
+	z-index: 29;
+	min-height: 9px;
+	background-color: transparent;
+	color: #29ABE2;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	font-style: normal;
+	margin-top: 7px;
+	position: relative;
+	width: 78.95%;
+	margin-left: 12.48%;
+}
+
+#u6689
+{
+	z-index: 33;
+	min-height: 42px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 20px;
+	right: 37px;
+	width: 3%;
+	max-width: 36px;
+}
+
+.html
+{
+	background-color: #36373A;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+
