@@ -4,13 +4,14 @@
 #img1 {display:block;}
 #img2 {display:none}
 
-@media all and (max-width: 499px) {
+@media all and (max-width: 825px) {
     #img1 {display: none;}
     #img2 {display: block;}
 }
+
 </style>
 <body>
-<img id="img1" src="image1/321.png" alt="">
+<img id="img1" src="321.png" alt="">
 <img id="img2" src="image1/123.png" alt="">
 </body>
 </html>
@@ -18,15 +19,22 @@
 </body>
 </html>
 
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 * {box-sizing: border-box;}
 
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+      width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
 }
 
 .topnav {
@@ -45,7 +53,7 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #fd7801;
+  background-color: #263c51;
   color: #f1f1f1;
 }
 
@@ -91,23 +99,19 @@ body {
     border: 1px solid #ccc;  
   }
 }
-
 </style>
 </head>
 <body>
 
 <div class="topnav">
-	
-  <a  href="index.html">Home</a>
-  <a class="active" href="animeseries.html">Anime Series</a>
+  <a   href="index.html"> <img src="image1/321123.png" alt=""> </a>
+  <a class="active" href="index.html">Home</a>
+  <a href="animeseries.html">Anime Series</a>
   <a href="animemovies.html">Anime Movies</a>
   <a href="movies.html">Movies</a>
   <a href="tv-shows.html">Tv-Shows</a>
-  
-
 
 </div>
-
 </body>
 </html>
 
@@ -131,25 +135,28 @@ body {
   overflow: hidden;
   z-index: 1;
   top: 0px;
-	left: 0%;
+  left: 0%;
   overflow:hidden;
   font-size: 16px;
   padding: 12px 20px 12px 40px;
-  border: 8px solid #ffffff;
-  border-radius: 5px;
-  margin-bottom: 10px;
-  margin-top: 3px; 
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  margin-bottom: 1px;
+  margin-top: 1px; 
+  zoom: reset;
   
+}
+@media all and (min-width: 825px) {
+    #myInput {border: 6px solid #1b2838;width: 95%;float: right;  bottom: 8px;right: 30px; margin-bottom: 40px; margin-top: 20px;border-radius: 50px;	}
 }
 </style>
 <body>
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Anime Series.." title="Type in a name">
 </body>
 </html>
 
 <!DOCTYPE html>
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link rel="stylesheet" href="image1/w3school.css">
 <style>
 body {margin:0;}
@@ -160,6 +167,32 @@ body {margin:0;}
     overflow: auto;
 	display:block;
 	margin-bottom: 40px;
+	zoom: reset;
+	z-index: 1;
+  
+  
+
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  
+  width: 100%;
+
+  position: -webkit-sticky;
+  position: sticky;
+  overflo  
+  overflow: hidden;
+  z-index: 1;
+  top: 0px;
+  left: 0%;
+  overflow:hidden;
+  font-size: 16px;
+
+
+
+  margin-bottom: 10px;
+  margin-top: 0px; 
+  
+
 }
 
 .icon-bar a {
@@ -190,8 +223,8 @@ body {margin:0;}
 <body>
 
 <div class="icon-bar">
-  <a  href="index.html"><i class="fa fa-home"></i><img src="image1/home.png" ></a> 
-  <a class="active" href="animeseries.html"><i class="fa fa-road"></i><img src="image1/animeseries.png" ></a> 
+  <a class="active"  href="index.html"><i class="fa fa-home"></i><img src="image1/home.png" ></a> 
+  <a href="animeseries.html"><i class="fa fa-road"></i><img src="image1/animeseries.png" ></a> 
   <a href="animemovies.html"><i class="fa fa-camera-retro"><img src="image1/animemovies.png" ></i></a> 
   <a href="movies.html"><i class="fa fa-film"></i><img src="image1/movies.png" ></a>
   <a href="tv-shows.html"><i class="fa fa-tv"></i><img src="image1/tv-shows.png" ></a> 
@@ -446,99 +479,105 @@ html {
 
 <!-----------------------------------------------------------------list Anime Series---------------------------------------------------->
 
-<ul id="myUL">
-  <li><div class="card u-clearfix">
-    
-    <div class="card-media">
-      <img src="FormatFactoryp10067727_b_v8_ab.jpg" alt="" class="card-media-img" />
-      <div class="card-media-preview u-flex-center">
-        <svg fill="#ffffff" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
-          <path d="M8 5v14l11-7z"/>
-          <path d="M0 0h24v24H0z" fill="none"/>
-        </svg>
-      </div>
-      <span class="card-media-tag card-media-tag-orange">Anime</span>
-    </div>
-    
-    <div class="card-body">
-       <h2 class="card-body-heading"><li><a href="#"  >Superman</a></li></h2>
-	  <h2>2016</h2>
-      <div class="card-body-options">
-        <div class="card-body-option card-body-option-favorite">
-           <svg fill="#9C948A" height="26" viewBox="0 0 24 24" width="26" xmlns="http://www.w3.org/2000/svg">
-            
-          </svg>
-        </div>
-        <div class="card-body-option card-body-option-share">
-          <svg fill="#9C948A" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-            
-          </svg>
-        </div>
-      </div>
-			<h3> Animation , Action , Adventure </h3>
-      <a href="linklist.txt" class="card-button card-button-cta">
-        7.8
-      </a>
-      <a href="linklist.txt" class="card-button card-button-link">
-        Watch
-        <span class="card-button-icon">
-          <svg fill="#9C948A" height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
-          </svg>
-        </span>
-      </a>
-    </div>
-    
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery {
+    border: 5px solid #263c51;
+}
+
+div.gallery:hover {
+    border: 5px solid #1b2838;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 1px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 825px) {
+    .responsive {
+        width: 50%;font-size: 12px;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Anime list</h2>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="1pic.jpg">
+      <img src="1pic.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Sword Art Online<p>2018</p></div>
   </div>
-  
 </div>
 
 
-  <li><div class="card u-clearfix">
-    
-    <div class="card-media">
-      <img src="FormatFactoryp10067727_b_v8_ab.jpg" alt="" class="card-media-img" />
-      <div class="card-media-preview u-flex-center">
-        <svg fill="#ffffff" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
-          <path d="M8 5v14l11-7z"/>
-          <path d="M0 0h24v24H0z" fill="none"/>
-        </svg>
-      </div>
-      <span class="card-media-tag card-media-tag-orange">Anime</span>
-    </div>
-    
-    <div class="card-body">
-      <h2 class="card-body-heading"><li><a href="#">Sword Art Online</a></li></h2>
-      <div class="card-body-options">
-        <div class="card-body-option card-body-option-favorite">
-           <svg fill="#9C948A" height="26" viewBox="0 0 24 24" width="26" xmlns="http://www.w3.org/2000/svg">
-            
-          </svg>
-        </div>
-        <div class="card-body-option card-body-option-share">
-          <svg fill="#9C948A" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-            
-          </svg>
-        </div>
-      </div>
-			<h3> Animation , Action , Adventure </h3>
-      <a href="linklist.txt" class="card-button card-button-cta">
-        imdb 7.8
-      </a>
-      <a href="linklist.txt" class="card-button card-button-link">
-        Watch
-        <span class="card-button-icon">
-          <svg fill="#9C948A" height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
-          </svg>
-        </span>
-      </a>
-    </div>
-    
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="2pic.jpg">
+      <img src="2pic.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Sword Art Online<p>2018</p></div>
   </div>
-  
 </div>
-</ul>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="3pic.jpg">
+      <img src="3pic.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Sword Art Online<p>2018</p></div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="4pic.jpg">
+      <img src="4pic.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Sword Art Online<p>2018</p></div>
+  </div>
+</div>
+
+
+
+
+
+
+</body>
+</html>
 <!----------------------------footer----------------------------->
