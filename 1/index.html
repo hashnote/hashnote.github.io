@@ -1,6 +1,5 @@
 <!-- Header-->
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <style>
 #img1 {display:block;}
 #img2 {display:none}
@@ -92,6 +91,7 @@ body {
     border: 1px solid #ccc;  
   }
 }
+
 </style>
 </head>
 <body>
@@ -118,7 +118,8 @@ body {
 }
 
 #myInput {
-  background-image: url('image/searchicon.png');
+
+  background-image: url('image1/searchicon.png');
   background-position: 10px 12px;
   background-repeat: no-repeat;
   
@@ -134,7 +135,7 @@ body {
   overflow:hidden;
   font-size: 16px;
   padding: 12px 20px 12px 40px;
-  border: 8px solid #263c51;
+  border: 8px solid #ffffff;
   border-radius: 5px;
   margin-bottom: 10px;
   margin-top: 3px; 
@@ -155,9 +156,10 @@ body {margin:0;}
 
 .icon-bar {
     width: 100%;
-    background-color: #555;
+    background-color: #f1f1f1;
     overflow: auto;
 	display:block;
+	margin-bottom: 40px;
 }
 
 .icon-bar a {
@@ -171,12 +173,12 @@ body {margin:0;}
 }
 
 .icon-bar a:hover {
-    background-color: #000;
+    background-color: #67bb43;
 	
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #b8b8b8;
 	
 }
 
@@ -188,11 +190,11 @@ body {margin:0;}
 <body>
 
 <div class="icon-bar">
-  <a class="active" href="#"><i class="fa fa-home"></i></a> 
-  <a href="#"><i class="fa fa-road"></i></a> 
-  <a href="#"><i class="fa fa-camera-retro"></i></a> 
-  <a href="#"><i class="fa fa-film"></i></a>
-  <a href="#"><i class="fa fa-tv"></i></a> 
+  <a  href="index.html"><i class="fa fa-home"></i><img src="image1/home.png" ></a> 
+  <a class="active" href="animeseries.html"><i class="fa fa-road"></i><img src="image1/animeseries.png" ></a> 
+  <a href="animemovies.html"><i class="fa fa-camera-retro"><img src="image1/animemovies.png" ></i></a> 
+  <a href="movies.html"><i class="fa fa-film"></i><img src="image1/movies.png" ></a>
+  <a href="tv-shows.html"><i class="fa fa-tv"></i><img src="image1/tv-shows.png" ></a> 
 </div>
 
 </body>
@@ -540,104 +542,3 @@ html {
 </div>
 </ul>
 <!----------------------------footer----------------------------->
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-    font-family: 'Lato', sans-serif;
-}
-
-.overlay {
-    height: 100%;
-    width: 100%;
-    display: none;
-    position: fixed;
-    z-index: 2;
-    top: 0;
-    left: 0;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0, 0.9);
-}
-
-.overlay-content {
-    position: relative;
-    top: 25%;
-    width: 100%;
-    text-align: center;
-    margin-top: 30px;
-}
-
-.overlay a {
-    padding: 8px;
-    text-decoration: none;
-    font-size: 36px;
-    color: #fd7801;
-    display: block;
-    transition: 0.3s;
-}
-
-.overlay a:hover, .overlay a:focus {
-    color: #ffffff;
-}
-
-.overlay .closebtn {
-    position: absolute;
-    top: 20px;
-    right: 45px;
-    font-size: 60px;
-}
-.btn {
-    
-    background-color: #167ac6;
-     border-radius: 360px;
-    padding: 9px 9px;
-	position: fixed;
-    cursor: pointer;
-    
-    border: 0px solid #000000;
-    bottom: 8px;
-    right: 8px;	
-	
-
-}
-
-@media screen and (max-height: 450px) {
-  .overlay a {font-size: 20px}
-  .overlay .closebtn {
-    font-size: 40px;
-    top: 15px;
-    right: 35px;
-  }
-}
-</style>
-</head>
-<body>
-
-<div id="myNav" class="overlay">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <div class="overlay-content">
-    <a href="/index.html">Home</a>
-    <a href="#">Anime Series</a>
-    <a href="#">Anime Movie</a>
-    <a href="#">Movies</a>
-    <a href="#">TV-Shows</a>
-  </div>
-</div>
-
-
-<span style="font-size:40px;cursor:pointer" onclick="openNav()"><button class="btn"><img src="image1/buttom.png" ></button></span>
-
-
-<script>
-function openNav() {
-  document.getElementById("myNav").style.display = "block";
-}
-
-function closeNav() {
-  document.getElementById("myNav").style.display = "none";
-}
-</script>
-     
-</body>
-</html>
