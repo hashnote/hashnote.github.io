@@ -59,9 +59,7 @@ body {
 }
 
 
-@media all and (min-width: 825px) {
-    .icon-bar {display: none;}
-}
+
 
 #search001 {
 
@@ -83,30 +81,8 @@ body {
   zoom: reset;
   border: 2px solid #4b4b4b;
 }
-@media all and (max-width: 825px) {
-    #search001 {}
-}
-@media all and (min-width: 825px) {
-    #search001 {
-  background-image: url('image1/searchicon.png');
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  width: 30%;
-  position: -webkit-sticky;
-  position: sticky;
-  z-index: 1;
-  top: 0px;
-  left: 35%;
-  overflow:hidden;
-  font-size: 16px;
-  padding: 8px 20px 8px 40px;
-  border: 1px solid #f1f1f1;
-  border-radius: 3px;
-  margin-bottom: 1px;
-  margin-top: 1px; 
-  zoom: reset;	
-  }
-}
+
+
 
 /*---------------------------------------------------------------big header------------------------------*/
 .float-panel {
@@ -129,35 +105,6 @@ body {
         transform: translateY(0);
     } 
 }
-@media all and (max-width: 825px) {
-    .float-panel {display: none;}
-}
-#searchbar002 {
-	outline:1px ;
-	border:0px;
-  float: middle;
-  padding: 6px 10%;
-  margin-top: 8px;
-  margin-right: 0px;
-  border: none;
-  font-size: 17px;
-  top: 0px;
-  left: 0%;
-  overflow:hidden;
-  font-size: 14px;
-  padding: 8px 30% 8px 20px;
-  border: 1px solid #4b4b4b;
-  border-radius: 5px;
-  margin-bottom: 0px;
-  margin-top: 7px;
-  overflow: hidden;
-  z-index: 9;
-  overflow:hidden;
-   background-repeat: no-repeat;
-   transition: top 0.3s;
-   left: 14%;
-   position: none;
-}
 
 /*-----------------------------------------------------------------------contact part---------------------------------------------------------------------------------------------------------*/
 #rig {
@@ -170,7 +117,7 @@ body {
 #rig li {
     display: inline-block;
     *display:inline;/*for IE6 - IE7*/
-    width:25%;
+    width:50%;
     vertical-align:middle;
     box-sizing:border-box;
     margin:0;
@@ -245,28 +192,7 @@ body {
     opacity:0.9;
 }
 
-@media (max-width: 9000px) {
-    #rig li {
-        width:12.5%;
-    }
-}
-
-@media (max-width: 700px) {
-    #rig li {
-        width:33.33%;
-    }
-}
-
-@media (max-width: 550px) {
-    #rig li {
-        width:50%;
-    }
-}
 
 /*---------------------------------------------Logo--------------------------------------------*/
-#img2 {display:none}
 
-@media all and (max-width: 825px) {
-    #img2 {display: block;}
-}
 
